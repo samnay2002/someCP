@@ -1,4 +1,5 @@
 # someCP
+[stdc++ is a header file of all the header file]
 some compititive proggraming ideas ...
 
 1 ->https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b
@@ -19,3 +20,7 @@ some compititive proggraming ideas ...
                 N = 5
         Array = {2, 2, 2, 2, 2}
         Output: 2
+
+4 -->shortest gcd in a limt
+        3 , 10
+        output- 3,6
