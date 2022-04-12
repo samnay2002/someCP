@@ -24,3 +24,9 @@ some compititive proggraming ideas ...
 4 -->shortest gcd in a limt
         3 , 10
         output- 3,6
+
+5 -->https://www.codechef.com/problems/AXNODR
+        evev - xor
+        odd - and 
+        2 to n numbers continusly
+       solution- https://www.youtube.com/watch?v=lnwt2JOlwhs
