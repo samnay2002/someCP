@@ -30,3 +30,5 @@ some compititive proggraming ideas ...
         odd - and 
         2 to n numbers continusly
        solution- https://www.youtube.com/watch?v=lnwt2JOlwhs
+6 --> https://leetcode.com/problems/calculate-digit-sum-of-a-string/submissions/
+        from total numerical string ,we have to make the string in k length
