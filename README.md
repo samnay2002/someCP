@@ -33,5 +33,5 @@ some compititive proggraming ideas ...
 
        
 6 --> https://leetcode.com/problems/calculate-digit-sum-of-a-string/submissions/
-        from total numerical string ,we have to make the string in k length hi
+        from total numerical string ,we have to make the string in k length 
         
