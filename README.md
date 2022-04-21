@@ -34,4 +34,6 @@ some compititive proggraming ideas ...
        
 6 --> https://leetcode.com/problems/calculate-digit-sum-of-a-string/submissions/
         from total numerical string ,we have to make the string in k length 
-        
+       
+7 --> https://www.codechef.com/START35D/problems/ADMINSHOP
+        shopping hours by shopping logic 
