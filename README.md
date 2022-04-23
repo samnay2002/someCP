@@ -37,3 +37,6 @@ some compititive proggraming ideas ...
        
 7 --> https://www.codechef.com/START35D/problems/ADMINSHOP
         shopping hours by shopping logic 
+
+8 --> https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1#
+                find position and insert
