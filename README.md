@@ -40,3 +40,7 @@ some compititive proggraming ideas ...
 
 8 --> https://practice.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1#
                 find position and insert
+
+9 --> https://www.codechef.com/APRIL222D/problems/GMINEQ
+
+        Determine if it is possible to rearrange the array A in such a way that Ai is not the geometric mean of Ai−1 and Ai+1, for all i such that 2≤i≤N−1.
