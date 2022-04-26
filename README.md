@@ -46,3 +46,7 @@ some compititive proggraming ideas ...
         Determine if it is possible to rearrange the array A in such a way that Ai is not the geometric mean of Ai−1 and Ai+1, for all i such that 2≤i≤N−1.
 
 10 --> roman to integer by maping
+
+
+11 --> 4 sum for a given target from user 
+        and the each vectors of 4 numbers should be sorted
