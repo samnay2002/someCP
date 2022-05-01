@@ -50,3 +50,7 @@ some compititive proggraming ideas ...
 
 11 --> 4 sum for a given target from user 
         and the each vectors of 4 numbers should be sorted
+
+12 --> longest common prefix like ..
+                Input: strs = ["flower","flow","flight"]
+                Output: "fl"
