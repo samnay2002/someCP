@@ -54,3 +54,7 @@ some compititive proggraming ideas ...
 12 --> longest common prefix like ..
                 Input: strs = ["flower","flow","flight"]
                 Output: "fl"
+13 --> Intersection of Two Arrays II
+        input-  2 4 1 
+                3 1 4 2 5 6 2
+        output- 1 4 2 
