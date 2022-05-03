@@ -57,4 +57,10 @@ some compititive proggraming ideas ...
 13 --> Intersection of Two Arrays II
         input-  2 4 1 
                 3 1 4 2 5 6 2
-        output- 1 4 2 
+        output- 1 4 2
+
+14 --> Revererse array in group 
+        input - 9 3                             // 9 is vectro size
+                1 2 3 4 5 99 12 43 16           // 3 is sub array or group size
+         
+        output - 3 2 1 99 5 4 16 43 12
