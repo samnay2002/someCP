@@ -68,3 +68,12 @@ some compititive proggraming ideas ...
 15 --> single number serching 
         2 1 3 1 3 6 2
         ans - 6
+
+16 --> broken telephone 
+        Please help Chef to find the number of players that could mishear the message or whisper it wrongly.
+        https://www.codechef.com/problems/BROKPHON
+        5 5 5 5
+        1 3 1 1 1
+        output
+        0
+        3
