@@ -10,14 +10,6 @@ class Sanmay {
         {
             ++M[it];
         }
-        int max =0;
-        for(auto it : M)
-        {
-        	if(it.second>=max)
-        	{
-				max=it.second;
-        	}
-        }
         for(auto i : M)					//for(int i=0;i<n;i++)
         {
         	if(i.second == 1)
