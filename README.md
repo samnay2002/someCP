@@ -64,3 +64,7 @@ some compititive proggraming ideas ...
                 1 2 3 4 5 99 12 43 16           // 3 is sub array or group size
          
         output - 3 2 1 99 5 4 16 43 12
+
+15 --> single number serching 
+        2 1 3 1 3 6 2
+        ans - 6
