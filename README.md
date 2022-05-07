@@ -77,3 +77,7 @@ some compititive proggraming ideas ...
         output
         0
         3
+
+17 --> Queen attack
+        https://www.codechef.com/MAY221D/problems/QUEENATTACK
+        the total number of cells that are under attack by the Queen
