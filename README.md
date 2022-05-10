@@ -81,3 +81,8 @@ some compititive proggraming ideas ...
 17 --> Queen attack
         https://www.codechef.com/MAY221D/problems/QUEENATTACK
         the total number of cells that are under attack by the Queen
+
+18 --> unique Occerance 
+        https://leetcode.com/problems/unique-number-of-occurrences/
+                input - 1,3,4,3,3,4
+                output - 1 (true)
