@@ -86,3 +86,7 @@ some compititive proggraming ideas ...
         https://leetcode.com/problems/unique-number-of-occurrences/
                 input - 1,3,4,3,3,4
                 output - 1 (true)
+
+19 --> good pairs 
+        https://www.codechef.com/START40D/problems/XORR
+        find i and j when .. Ai⊕Aj=Bi⊕Bj
