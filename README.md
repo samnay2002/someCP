@@ -89,4 +89,9 @@ some compititive proggraming ideas ...
 
 19 --> good pairs 
         https://www.codechef.com/START40D/problems/XORR
-        find i and j when .. Ai⊕Aj=Bi⊕Bj
+       find i and j when .. Ai⊕Aj=Bi⊕Bj
+
+20 -->maximum product subarray 
+        https://leetcode.com/problems/maximum-product-subarray/submissions/
+        input- [-2,-2,3,0,10,0]
+        output- 12
