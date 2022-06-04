@@ -95,3 +95,7 @@ some compititive proggraming ideas ...
         https://leetcode.com/problems/maximum-product-subarray/submissions/
         input- [-2,-2,3,0,10,0]
         output- 12
+
+21 --> finding minimum y , when x&y>0  &&  x^y>0
+        https://codeforces.com/contest/1688/problem/A
+        
