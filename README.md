@@ -98,4 +98,8 @@ some compititive proggraming ideas ...
 
 21 --> finding minimum y , when x&y>0  &&  x^y>0
         https://codeforces.com/contest/1688/problem/A
-        
+       
+22 ---> Longest Substring Without Repeating Characters
+        https://leetcode.com/problems/longest-substring-without-repeating-characters/
+        Input: s = "abcabcbb"
+        Output: 3
