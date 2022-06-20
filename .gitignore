@@ -1,0 +1,4 @@
+output.txt
+*.txt
+*.dSYM/
+*.DS_Store
