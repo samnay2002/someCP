@@ -103,4 +103,10 @@ some compititive proggraming ideas ...
         https://leetcode.com/problems/longest-substring-without-repeating-characters/
         Input: s = "abcabcbb"
         Output: 3
+
 23 --> The knight attack
+        https://www.codechef.com/problems-old/KNIGHTATTACK
+
+24 --> the journy of knight
+        https://www.codechef.com/JULY221D/problems/KNIGHT2
+        
