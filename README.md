@@ -113,3 +113,7 @@ some compititive proggraming ideas ...
 25 --> train and queries 
         https://codeforces.com/contest/1702/problem/C
         here we put the next pari inputs in two distinct map and store ist occourance of first input and last oucarence of 2nd input
+
+26 --> sort by kth bit
+       https://www.codingninjas.com/codestudio/guided-paths/competitive-programming/content/148628/offering/1792848?leftPanelTab=0
+       in vector which elements are kth bit is 0 they are left sifting by one and one swaping 
