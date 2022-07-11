@@ -109,4 +109,7 @@ some compititive proggraming ideas ...
 
 24 --> the journy of knight
         https://www.codechef.com/JULY221D/problems/KNIGHT2
-        
+
+25 --> train and queries 
+        https://codeforces.com/contest/1702/problem/C
+        here we put the next pari inputs in two distinct map and store ist occourance of first input and last oucarence of 2nd input
