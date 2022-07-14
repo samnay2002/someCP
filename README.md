@@ -116,4 +116,7 @@ some compititive proggraming ideas ...
 
 26 --> sort by kth bit
        https://www.codingninjas.com/codestudio/guided-paths/competitive-programming/content/148628/offering/1792848?leftPanelTab=0
-       in vector which elements are kth bit is 0 they are left sifting by one and one swaping 
+       in vector which elements are kth bit is 0 they are left sifting by one and one swaping
+
+27 --> The clock
+        https://codeforces.com/contest/1692/problem/D
