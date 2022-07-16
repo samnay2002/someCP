@@ -120,3 +120,7 @@ some compititive proggraming ideas ...
 
 27 --> The clock
         https://codeforces.com/contest/1692/problem/D
+
+28 --> Mark the dust swiper
+        https://codeforces.com/contest/1705/problem/B
+        
