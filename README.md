@@ -123,4 +123,6 @@ some compititive proggraming ideas ...
 
 28 --> Mark the dust swiper
         https://codeforces.com/contest/1705/problem/B
+
+29 --> given min(A,B),min(B,C), and min(C,A) and yhou have to find out a,b,c
         
