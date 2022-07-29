@@ -125,4 +125,10 @@ some compititive proggraming ideas ...
         https://codeforces.com/contest/1705/problem/B
 
 29 --> given min(A,B),min(B,C), and min(C,A) and yhou have to find out a,b,c
+
+30 --> Formally, Ivan wants to know if he can choose two non-negative integers a and b in such a way that a small portions and b large 
+       ones contain exactly x chunks. (small one is 3 chunk and large one is 7 chunk)
+       https://codeforces.com/problemset/problem/903/A
+
+
         
