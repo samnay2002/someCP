@@ -130,5 +130,7 @@ some compititive proggraming ideas ...
        ones contain exactly x chunks. (small one is 3 chunk and large one is 7 chunk)
        https://codeforces.com/problemset/problem/903/A
 
+31 --> https://codeforces.com/problemset/problem/1/A
+        
 
         
