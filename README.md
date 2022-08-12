@@ -131,6 +131,9 @@ some compititive proggraming ideas ...
        https://codeforces.com/problemset/problem/903/A
 
 31 --> https://codeforces.com/problemset/problem/1/A
+
+32 --> play with power of 2 https://www.codechef.com/submit/SPLITN?tab=statement
+        
         
 
         
