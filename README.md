@@ -133,7 +133,10 @@ some compititive proggraming ideas ...
 31 --> https://codeforces.com/problemset/problem/1/A
 
 32 --> play with power of 2 https://www.codechef.com/submit/SPLITN?tab=statement
-        
+
+33 --> diffrent median making a array by median
+        https://www.codechef.com/submit/DIFFMED?tab=statement
+
         
 
         
