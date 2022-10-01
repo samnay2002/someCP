@@ -137,6 +137,8 @@ some compititive proggraming ideas ...
 33 --> diffrent median making a array by median
         https://www.codechef.com/submit/DIFFMED?tab=statement
 
-        
+34 --> implement queue using stack
+        https://leetcode.com/problems/implement-queue-using-stacks/
 
-        
+35 --> Kth Missing Positive Number ( using binary search)
+        https://leetcode.com/problems/kth-missing-positive-number/
