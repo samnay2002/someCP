@@ -142,3 +142,6 @@ some compititive proggraming ideas ...
 
 35 --> Kth Missing Positive Number ( using binary search)
         https://leetcode.com/problems/kth-missing-positive-number/
+
+36 --> Decode Ways
+        https://leetcode.com/problems/decode-ways/
