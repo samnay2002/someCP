@@ -144,4 +144,6 @@ some compititive proggraming ideas ...
         https://leetcode.com/problems/kth-missing-positive-number/
 
 36 --> Decode Ways
-        https://leetcode.com/problems/decode-ways/
+        https://leetcode.com/problems/decode-ways
+37 --> Minimize XOR   ----> let n = set bit number of num2 and akhne bar krte hbe minimmum xor result hbe num1 r sathe amn num(x) r even set hbe n , akhne main last logic holo XOR r khatre amra jani 1^1 = 0 and 0^0 = 0 tai amdr motive thakbe oi n number set bit r joto ta possible num1 r sathe ai 1^1 or 0^0 condition rakhte hbe
+        https://leetcode.com/contest/weekly-contest-313/problems/minimize-xor/
