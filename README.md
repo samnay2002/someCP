@@ -152,4 +152,4 @@ some compititive proggraming ideas ...
         bitwise and zayada ho aisa max substring number ..main logic is suppose 7 - 00111 and 8 - 01000 so 7&&8 is 0.. we have to find the maximum gap of two 2to power somthing
         https://www.codechef.com/problems-old/ANDSUBAR
 
-39 --> <img alt="Sample App image" src="./images/check.png"width="400px">
+39 --> <img alt="Sample App image" src="./images/check.png">
