@@ -153,3 +153,7 @@ some compititive proggraming ideas ...
         https://www.codechef.com/problems-old/ANDSUBAR
 
 39 --> <img src="https://github.com/sanmay321/someCP/tree/main/images/check.png " width="350" title="hover text">
+
+<div align="center">
+    <img src="/images/check.jpg" width="400px"</img> 
+</div>
