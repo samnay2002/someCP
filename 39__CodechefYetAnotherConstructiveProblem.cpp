@@ -75,10 +75,8 @@ void solve()
 {
     //Bhai kya kar raha hai tu
     re(n)
-    // wr(bitTemp(n))
     ll temp = power(2,bitTemp(n)) % MOD;        // we can use one of this of either the my created function bitTemp or log2 any one
     // ll temp = power(2,log2(n)+1) % MOD;             
-    // wr(temp)
     wrrr(0,n,(temp+n))
 }
 //*------------------------------------------------------------------------------------*
