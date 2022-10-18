@@ -156,4 +156,4 @@ some compititive proggraming ideas ...
         <img src="https://github.com/sanmay321/someCP/blob/main/images/a.jpeg" alt="Screenshot 1" width="700" height="400"></img> 
 
 40 --> https://www.codechef.com/problems-old/BININVER
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/b.jpeg" alt="Screenshot 1" width="700" height="400"></img> 
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/b.jpeg" alt="Screenshot 1" width="500" height="400"></img> 
