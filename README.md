@@ -157,3 +157,6 @@ some compititive proggraming ideas ...
 
 40 --> https://www.codechef.com/problems-old/BININVER
         <img src="https://github.com/sanmay321/someCP/blob/main/images/b.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
+
+41 --> https://www.codechef.com/problems-old/FLIPSORT
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/c.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
