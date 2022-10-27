@@ -160,3 +160,8 @@ some compititive proggraming ideas ...
 
 41 --> https://www.codechef.com/problems-old/FLIPSORT
         <img src="https://github.com/sanmay321/someCP/blob/main/images/c.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
+
+42 --> https://www.codechef.com/submit/MAKEMULTIPLE?tab=statement
+        in two cases ans can be yes otherwise no
+        1 -> a == b
+        2 -> 2*a <= b
