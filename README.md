@@ -153,13 +153,13 @@ some compititive proggraming ideas ...
         https://www.codechef.com/problems-old/ANDSUBAR
 
 39 --> https://www.codechef.com/submit/ARRPAL
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/a.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/a.jpeg" alt="Screenshot a" width="550" height="400"></img> 
 
 40 --> https://www.codechef.com/problems-old/BININVER
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/b.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/b.jpeg" alt="Screenshot b" width="550" height="400"></img> 
 
 41 --> https://www.codechef.com/problems-old/FLIPSORT
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/c.jpeg" alt="Screenshot 1" width="550" height="400"></img> 
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/c.jpeg" alt="Screenshot c" width="550" height="400"></img> 
 
 42 --> https://www.codechef.com/submit/MAKEMULTIPLE?tab=statement
         in two cases ans can be yes otherwise no
@@ -167,4 +167,4 @@ some compititive proggraming ideas ...
         2 -> 2*a <= b
 
 43 --> https://leetcode.com/problems/most-popular-video-creator/
-         <img src="https://github.com/sanmay321/someCP/blob/main/images/d.jpeg" alt="Screenshot 1" width="550" height="400"></img>        
+         <img src="https://github.com/sanmay321/someCP/blob/main/images/d.jpeg" alt="Screenshot d" width="550" height="400"></img>        
