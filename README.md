@@ -165,3 +165,6 @@ some compititive proggraming ideas ...
         in two cases ans can be yes otherwise no
         1 -> a == b
         2 -> 2*a <= b
+
+43 --> https://leetcode.com/problems/most-popular-video-creator/
+         <img src="https://github.com/sanmay321/someCP/blob/main/images/d.jpeg" alt="Screenshot 1" width="550" height="400"></img>        
