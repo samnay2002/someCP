@@ -167,4 +167,8 @@ some compititive proggraming ideas ...
         2 -> 2*a <= b
 
 43 --> https://leetcode.com/problems/most-popular-video-creator/
-         <img src="https://github.com/sanmay321/someCP/blob/main/images/d.jpeg" alt="Screenshot d" width="550" height="400"></img>        
+         <img src="https://github.com/sanmay321/someCP/blob/main/images/d.jpeg" alt="Screenshot d" width="550" height="400"></img>     
+
+44 --> https://www.codechef.com/submit/SAKTAN?tab=statement
+        https://www.youtube.com/watch?v=rIFuMhhTWxk
+        
