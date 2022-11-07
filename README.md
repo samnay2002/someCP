@@ -185,4 +185,4 @@ some compititive proggraming ideas ...
                  <img src="https://github.com/sanmay321/someCP/blob/main/images/g.jpeg" alt="Screenshot f" width="550" height="400"></img> 
 
 49 --> https://www.codechef.com/problems-old/GRID
-          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot f" width="550" height="500"></img>                
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot f" width="550" height="600"></img>                
