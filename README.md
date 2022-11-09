@@ -185,4 +185,7 @@ some compititive proggraming ideas ...
                  <img src="https://github.com/sanmay321/someCP/blob/main/images/g.jpeg" alt="Screenshot f" width="550" height="400"></img> 
 
 49 --> https://www.codechef.com/problems-old/GRID
-          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot f" width="550" height="600"></img>                
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot f" width="550" height="600"></img>               
+
+50 --> https://www.codechef.com/problems-old/ICM0001
+        you can unnderstand by seeing the code --> if all (A[i] < A[i + 1]) then ans yes ans 0 if one of all is failed then if(A[n - 1] <= A[0]) then yes & 1 else no
