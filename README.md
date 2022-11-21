@@ -189,3 +189,6 @@ some compititive proggraming ideas ...
 
 50 --> https://www.codechef.com/problems-old/ICM0001
         you can unnderstand by seeing the code --> if all (A[i] < A[i + 1]) then ans yes ans 0 if one of all is failed then if(A[n - 1] <= A[0]) then yes & 1 else no
+
+51 --> https://www.codechef.com/problems-old/DPAIRS
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot f" width="550" height="600"></img> 
