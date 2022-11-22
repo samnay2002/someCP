@@ -191,4 +191,7 @@ some compititive proggraming ideas ...
         you can unnderstand by seeing the code --> if all (A[i] < A[i + 1]) then ans yes ans 0 if one of all is failed then if(A[n - 1] <= A[0]) then yes & 1 else no
 
 51 --> https://www.codechef.com/problems-old/DPAIRS
-          <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot f" width="550" height="600"></img> 
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot g" width="550" height="600"></img> 
+
+52 --> https://leetcode.com/problems/perfect-squares/
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/j.jpeg" alt="Screenshot h" width="550" height="600"></img> 
