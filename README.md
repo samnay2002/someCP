@@ -194,4 +194,4 @@ some compititive proggraming ideas ...
           <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot g" width="550" height="600"></img> 
 
 52 --> https://leetcode.com/problems/perfect-squares/
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/j.png" alt="Screenshot h" width="700" height="600"></img> 
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/j.png" alt="Screenshot h" width="800" height="600"></img> 
