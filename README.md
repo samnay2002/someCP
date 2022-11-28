@@ -198,3 +198,6 @@ some compititive proggraming ideas ...
 
 53 --> https://www.codechef.com/problems-old/RRCODE
         in every odd iteration(round) XOR will change
+
+54 --> https://leetcode.com/problems/binary-tree-preorder-traversal/
+        without recursion
