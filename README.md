@@ -204,3 +204,6 @@ some compititive proggraming ideas ...
 
 55 --> https://www.codechef.com/problems-old/MAXAGRY
         https://discuss.codechef.com/problems/MAXAGRY
+
+56 --> https://www.codechef.com/problems-old/POGOSTCK
+        array r pe6on theke add korte korte aste hbe tbuler method of Dp will show in paper
