@@ -207,3 +207,7 @@ some compititive proggraming ideas ...
 
 56 --> https://www.codechef.com/problems-old/POGOSTCK
         array r pe6on theke add korte korte aste hbe tbuler method of Dp will show in paper
+
+57 --> https://leetcode.com/problems/jump-game/
+        quite observation
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/h.png" alt="Screenshot h" width="800" height="600"></img>
