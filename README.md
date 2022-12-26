@@ -210,4 +210,4 @@ some compititive proggraming ideas ...
 
 57 --> https://leetcode.com/problems/jump-game/
         quite observation
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/h.png" alt="Screenshot h" width="800" height="600"></img>
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/k.png" alt="Screenshot h" width="800" height="600"></img>
