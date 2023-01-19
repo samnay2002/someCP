@@ -214,4 +214,4 @@ some compititive proggraming ideas ...
 
 58 --> https://leetcode.com/problems/subarray-sums-divisible-by-k/
         sums divided by k
-        <<img src="https://github.com/sanmay321/someCP/blob/main/images/l.png" alt="Screenshot l" width="800" height="500"></img>>
+        <<img src="https://github.com/sanmay321/someCP/blob/main/images/l.jpeg" alt="Screenshot l" width="800" height="500"></img>>
