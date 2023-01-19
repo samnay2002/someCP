@@ -182,19 +182,19 @@ some compititive proggraming ideas ...
         suppose n = 8 ans k = 3 1st we are putting 8 in the first then means 1 divisible then k-1 are remaining then print 2 to k(3) then 1 the remining are same means 4 5 6 7
 
 48 --> https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
-                 <img src="https://github.com/sanmay321/someCP/blob/main/images/g.jpeg" alt="Screenshot f" width="550" height="400"></img> 
+                 <img src="https://github.com/sanmay321/someCP/blob/main/images/g.jpeg" alt="Screenshot g" width="550" height="400"></img> 
 
 49 --> https://www.codechef.com/problems-old/GRID
-          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot f" width="550" height="600"></img>               
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/h.jpeg" alt="Screenshot h" width="550" height="600"></img>               
 
 50 --> https://www.codechef.com/problems-old/ICM0001
         you can unnderstand by seeing the code --> if all (A[i] < A[i + 1]) then ans yes ans 0 if one of all is failed then if(A[n - 1] <= A[0]) then yes & 1 else no
 
 51 --> https://www.codechef.com/problems-old/DPAIRS
-          <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot g" width="550" height="600"></img> 
+          <img src="https://github.com/sanmay321/someCP/blob/main/images/i.jpeg" alt="Screenshot i" width="550" height="600"></img> 
 
 52 --> https://leetcode.com/problems/perfect-squares/
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/j.png" alt="Screenshot h" width="800" height="600"></img>
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/j.png" alt="Screenshot j" width="800" height="600"></img>
 
 53 --> https://www.codechef.com/problems-old/RRCODE
         in every odd iteration(round) XOR will change
@@ -210,4 +210,8 @@ some compititive proggraming ideas ...
 
 57 --> https://leetcode.com/problems/jump-game/
         quite observation
-        <img src="https://github.com/sanmay321/someCP/blob/main/images/k.png" alt="Screenshot h" width="800" height="500"></img>
+        <img src="https://github.com/sanmay321/someCP/blob/main/images/k.png" alt="Screenshot k" width="800" height="500"></img>
+
+58 --> https://leetcode.com/problems/subarray-sums-divisible-by-k/
+        sums divided by k
+        <<img src="https://github.com/sanmay321/someCP/blob/main/images/l.png" alt="Screenshot l" width="800" height="500"></img>>
