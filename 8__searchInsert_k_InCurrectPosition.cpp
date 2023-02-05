@@ -9,22 +9,10 @@ class Solution{
     public:
     int searchInsertK(vector<int>Arr, int N, int k)
     {
-        for(int i=0;i<N;i++)
-        {
-            if(Arr[i]>=k && i==0)
-            {
-                return 0;
-            }
-            else if(i==N && Arr[i]<=k)
-            {
-                return N;
-            }
-            else if(Arr[i]<=k && Arr[i+1]>=k)
-            {
-                return (i+1);
-            }
+        for(int i=0;i<N;i++){
+            if(Arr[i]>=k)return i;
         }
-        return 0;
+        return N;
     }
 };
 
