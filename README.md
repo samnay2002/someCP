@@ -90,6 +90,7 @@ some compititive proggraming ideas ...
 19 --> good pairs 
         https://www.codechef.com/START40D/problems/XORR
        find i and j when .. Ai⊕Aj=Bi⊕Bj
+        <<img src="https://github.com/sanmay321/someCP/blob/main/images/19th.jpeg" alt="Screenshot 19th" width="800" height="500"></img>>
 
 20 -->maximum product subarray 
         https://leetcode.com/problems/maximum-product-subarray/submissions/
