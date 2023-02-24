@@ -27,10 +27,6 @@ int32_t main()
         {
         	cout<<3<<endl;
         }
-        else if(x%2==1)
-        {
-        	cout<<1<<endl;
-        }
         else
         {
         	int i=0,ans;
