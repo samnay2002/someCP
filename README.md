@@ -216,3 +216,7 @@ some compititive proggraming ideas ...
 58 --> https://leetcode.com/problems/subarray-sums-divisible-by-k/
         sums divided by k
         <<img src="https://github.com/sanmay321/someCP/blob/main/images/l.jpeg" alt="Screenshot l" width="800" height="500"></img>>
+59 --> https://leetcode.com/problems/find-the-divisibility-array-of-a-string/
+        word = "99824355"
+        suoppse 9 is divisible so value changed to 0 the next is 0*10+9 , Or the reminder * 10 + 9
+        
